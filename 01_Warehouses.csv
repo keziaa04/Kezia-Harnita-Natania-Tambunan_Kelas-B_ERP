@@ -1,0 +1,4 @@
+﻿warehouse_name,parent_warehouse,warehouse_type,description
+Gudang Bahan Baku,All Warehouses,Stores,Gudang penerimaan dan penyimpanan material kayu, besi, baut, cat
+Gudang WIP Produksi,All Warehouses,Work In Progress,Area lantai pabrik perakitan dan pemrosesan barang
+Gudang Barang Jadi,All Warehouses,Finished Goods,Gudang penyimpanan produk furniture yang siap dikirim

@@ -1,0 +1,14 @@
+﻿tahap,modul,tipe_dokumen,deskripsi_aktivitas,item,qty,gudang_asal,gudang_tujuan,estimasi_nilai
+1,Buying,Purchase Order,Pemesanan Kayu Mahoni ke PT Rimba Kayu Lestari,RM-KAYU-01,20 Nos,-,-,2400000
+2,Buying,Purchase Order,Pemesanan Kaki Besi ke CV Baja Logam Perkasa,RM-BESI-01,20 Set,-,-,1500000
+3,Buying,Purchase Order,Pemesanan Baut ke Toko Sentosa Baut & Perkakas,RM-BAUT-01,5 Box,-,-,125000
+4,Buying,Purchase Order,Pemesanan Cat ke UD Warna Abadi Kimia,RM-CAT-01,5 Can,-,-,250000
+5,Stock,Purchase Receipt,Penerimaan seluruh bahan baku ke gudang penyimpanan,Semua Bahan Baku,-,-,Gudang Bahan Baku,4275000
+6,Accounts,Purchase Invoice,Pencatatan faktur pembelian dan pembayaran kas/bank,Semua Bahan Baku,-,-,-,4275000
+7,Manufacturing,Work Order,Perintah kerja perakitan 10 unit Meja Belajar,FG-MEJA-01,10 Unit,-,-,2450000
+8,Stock,Stock Entry (Transfer),Pemindahan material dari gudang bahan ke area produksi,Bahan Baku Sesuai BOM,-,Gudang Bahan Baku,Gudang WIP Produksi,2100000
+9,Manufacturing,Job Card,Penyelesaian 4 stasiun pengerjaan (Potong/Rakit/Cat/Packing),FG-MEJA-01,10 Unit,-,-,350000
+10,Stock,Stock Entry (Manufacture),Penyelesaian barang jadi ke gudang finish goods,FG-MEJA-01,10 Unit,Gudang WIP Produksi,Gudang Barang Jadi,2450000
+11,Selling,Sales Order,Pesanan pembelian dari PT Edukasi Cipta Mandiri,FG-MEJA-01,10 Unit,-,-,4500000
+12,Stock,Delivery Note,Pengiriman 10 unit meja jadi ke customer,FG-MEJA-01,10 Unit,Gudang Barang Jadi,-,4500000
+13,Accounts,Sales Invoice & Payment,Penagihan dan penerimaan pembayaran dari pelanggan,FG-MEJA-01,10 Unit,-,-,4500000

@@ -1,0 +1,5 @@
+﻿bom_item,finished_good,item_code,item_name,qty_per_unit,uom,rate_estimate,subtotal
+FG-MEJA-01,Meja Belajar Kayu Minimalis,RM-KAYU-01,Papan Kayu Mahoni 120x60,1,Nos,120000,120000
+FG-MEJA-01,Meja Belajar Kayu Minimalis,RM-BESI-01,Kaki Meja Besi Hollow,1,Set,75000,75000
+FG-MEJA-01,Meja Belajar Kayu Minimalis,RM-BAUT-01,Baut & Sekrup M6 Paket,0.1,Box,25000,2500
+FG-MEJA-01,Meja Belajar Kayu Minimalis,RM-CAT-01,Cat Pernis Clear Gloss 1L,0.25,Can,50000,12500

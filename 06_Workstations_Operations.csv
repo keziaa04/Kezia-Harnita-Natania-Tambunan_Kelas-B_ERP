@@ -1,0 +1,5 @@
+﻿workstation_name,hour_rate,capacity_unit_per_hour,operation_name,description
+WS-Potong Kayu,30000,10,Pemotongan dan Sanding,Area mesin gergaji presisi dan mesin amplas kayu
+WS-Perakitan Rangka,25000,8,Perakitan Daun dan Kaki,Meja kerja assembling manual penyatuan kayu dan kaki besi
+WS-Finishing Spray,35000,6,Pengecatan Pernis,Ruang booth pengecatan spray dan pengeringan pernis
+WS-Quality & Packing,20000,12,Inspeksi dan Packaging,Pemeriksaan kualitas akhir penempelan logo dan pembungkusan kardus

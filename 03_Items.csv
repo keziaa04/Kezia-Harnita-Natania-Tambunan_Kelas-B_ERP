@@ -1,0 +1,7 @@
+﻿item_code,item_name,item_group,stock_uom,is_stock_item,is_purchase_item,is_sales_item,valuation_rate,standard_selling_rate,description
+RM-KAYU-01,Papan Kayu Mahoni 120x60,Bahan Baku (Raw Material),Nos,Yes,Yes,No,120000,0,Papan kayu mahoni solid ukuran 120cm x 60cm tebal 3cm
+RM-BESI-01,Kaki Meja Besi Hollow,Bahan Baku (Raw Material),Set,Yes,Yes,No,75000,0,Kaki meja rangka besi hollow finishing powder coating hitam
+RM-BAUT-01,Baut & Sekrup M6 Paket,Aksesoris & Hardware,Box,Yes,Yes,No,25000,0,1 Box berisi sekrup M6 dan ring baut untuk 10 unit meja
+RM-CAT-01,Cat Pernis Clear Gloss 1L,Bahan Baku (Raw Material),Can,Yes,Yes,No,50000,0,Cat pelapis kayu finishing mengkilap per kaleng 1 Liter
+FG-MEJA-01,Meja Belajar Kayu Minimalis,Barang Jadi (Finished Goods),Unit,Yes,No,Yes,245000,450000,Meja belajar kerja kayu mahoni dengan rangka kaki besi kokoh
+FG-KURSI-01,Kursi Belajar Kayu Minimalis,Barang Jadi (Finished Goods),Unit,Yes,No,Yes,135000,250000,Kursi kayu ergonomis sandaran lengkung
